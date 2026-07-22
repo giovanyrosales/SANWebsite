@@ -142,7 +142,7 @@ Mauricio Giovany Rosales Hernández
 
 Software Engineer
 
-- LinkedIn
+- LinkedIn: linkedin.com/in/giovany-rosales-b5990b259
 - Email: mrosales0290@gmail.com
 
 ---
