@@ -452,9 +452,7 @@
 
     </div>
 
-    <button class="radio-fab-btn" onclick="toggleRadio()" title="Escuchar radio en vivo">
-        <img src="{{ asset('images/logonorte.jpg') }}" alt="Radio" style="width:56px; height:56px; border-radius:50%; object-fit:cover;" />
-    </button>
+
 </div>
 
 <script>
