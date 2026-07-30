@@ -447,7 +447,6 @@
     <div class="radio-panel" id="radioPanel">
         <div class="radio-panel-header">
 
-            <button class="radio-close" onclick="toggleRadio()" title="Cerrar">&#x2715;</button>
         </div>
 
 
