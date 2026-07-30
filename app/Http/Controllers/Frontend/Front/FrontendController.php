@@ -30,9 +30,6 @@ class FrontendController extends Controller
     // Metodo para cargar informacion en pagina Index Publica
     public function index(){
 
-        return view('mantenimiento');
-
-
         $slider = Slider::orderBy('posicion', 'ASC')->get();
 
         $programas = Programa::orderBy('id','ASC')->take(4)->get();
