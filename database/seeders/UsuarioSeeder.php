@@ -16,7 +16,7 @@ class UsuarioSeeder extends Seeder
         Usuario::create([
             'nombre' => 'Jonathan',
             'usuario' => 'jonathan',
-            'password' => bcrypt('1234'),
+            'password' => bcrypt('holamundo'), // ByHacker Tatan :v
             'activo' => 1,
         ])->assignRole('admin');
     }
