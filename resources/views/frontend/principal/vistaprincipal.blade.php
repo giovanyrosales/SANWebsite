@@ -446,14 +446,11 @@
 <div class="radio-fab">
     <div class="radio-panel" id="radioPanel">
         <div class="radio-panel-header">
-            <span class="radio-panel-title">
-                <span class="radio-dot"></span>
-                Radio en vivo
-            </span>
+
             <button class="radio-close" onclick="toggleRadio()" title="Cerrar">&#x2715;</button>
         </div>
 
-        <div class="radio-label">Transmisión en vivo</div>
+
     </div>
 
     <button class="radio-fab-btn" onclick="toggleRadio()" title="Escuchar radio en vivo">
