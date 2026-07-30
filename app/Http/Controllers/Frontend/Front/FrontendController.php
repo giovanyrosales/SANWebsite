@@ -300,6 +300,9 @@ class FrontendController extends Controller
 
     public function registrarVotacion(Request $request)
     {
+
+        return view('mantenimiento');
+
         // Validar que venga una opción válida
         $request->validate([
             'id_votacion' => 'required|exists:votacion,id',
