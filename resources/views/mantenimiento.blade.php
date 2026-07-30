@@ -157,20 +157,6 @@
                 </span>
             <span class="badge badge-warning">En mantenimiento</span>
         </div>
-
-        <div class="status-row">
-                <span class="service-name">
-                    <i class="ti ti-database" aria-hidden="true"></i> Base de datos
-                </span>
-            <span class="badge badge-success">Operativa</span>
-        </div>
-
-        <div class="status-row">
-                <span class="service-name">
-                    <i class="ti ti-cloud" aria-hidden="true"></i> Almacenamiento
-                </span>
-            <span class="badge badge-success">Operativo</span>
-        </div>
     </div>
 
     <div class="eta">
@@ -178,10 +164,7 @@
         Tiempo estimado: <strong>2 horas</strong>
     </div>
 
-    <p class="contact">
-        ¿Necesitas ayuda urgente? Escríbenos a
-        <a href="mailto:soporte@ejemplo.com">soporte@ejemplo.com</a>
-    </p>
+
 
 </div>
 
